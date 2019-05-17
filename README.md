@@ -1,5 +1,5 @@
 Hey guys, so i wanted to at least release the Recovery menu of my 2 menus.
-It was made possible with the source of 
+It was made possible with the source of the github from 
 [Shaxzy-Github](https://github.com/Shaxzy/ModMenuGTA5-1.44)
 
 
