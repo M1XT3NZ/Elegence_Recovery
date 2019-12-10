@@ -6,7 +6,7 @@ It was made possible with the source of the github from
 Anyway was a nice time and yes Elegence will come back but give it a while because i want to spend more time with 
 someone i really like ;)
 Anyway this is the source compile it and youre ready to get banned. Yeah serious this thing isnt updated anymore.
-Either update it yourself or as on unknowncheats ;) 
+Either update it yourself or ask on unknowncheats ;) 
 
 
 My Discord is still there to help
